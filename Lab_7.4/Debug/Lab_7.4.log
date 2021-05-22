@@ -1,0 +1,5 @@
+﻿  Display.cpp
+C:\Users\dwtwm\source\repos\Lab_7.4\Lab_7.4\Display.cpp(5,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dwtwm\source\repos\Lab_7.4\Lab_7.4\Display.cpp(17,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dwtwm\source\repos\Lab_7.4\Lab_7.4\Display.cpp(31,20): warning C4018: '<': signed/unsigned mismatch
+  Lab_7.4.vcxproj -> C:\Users\dwtwm\source\repos\Lab_7.4\Debug\Lab_7.4.exe

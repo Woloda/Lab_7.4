@@ -1,0 +1,4 @@
+﻿  UnitTest(Lab_7.4).cpp
+C:\Users\dwtwm\source\repos\Lab_7.4\Lab_7.4\Sort.cpp(5,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dwtwm\source\repos\Lab_7.4\Lab_7.4\Sort.cpp(6,21): warning C4018: '<': signed/unsigned mismatch
+  UnitTest(Lab_7.4).vcxproj -> C:\Users\dwtwm\source\repos\Lab_7.4\Debug\UnitTest(Lab_7.4).dll
